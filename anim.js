@@ -3,7 +3,7 @@ var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
-var lovePhrases = [
+var lyricsData = [
   { text: "Eres mi sueño hecho realidad.", time: 15 },
   { text: "Desde que te conocí, todo tiene más sentido.", time: 17 },
   { text: "Eres la razón por la que sonrío cada día.", time: 19 },
