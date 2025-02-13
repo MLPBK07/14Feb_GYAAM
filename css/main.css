@@ -30,7 +30,7 @@ body {
   font-weight: bold;
   letter-spacing: 10px;
   text-align: center;
-  opacity: 0;
+  opacity: 1;
   animation: fadeIn 3s ease-in-out forwards;
 }
 @media only screen and (max-width: 600px) {
@@ -52,7 +52,7 @@ body {
   font-weight: bold;
   letter-spacing: 10px;
   text-align: center;
-  opacity: 0;
+  opacity: 1;
   animation: fadeIn 3s ease-in-out forwards;
 }
 
