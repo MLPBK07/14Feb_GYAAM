@@ -21,16 +21,16 @@ body {
 }
 
 #lyrics {
-   font-size: 28px;
+   font-size: 35px;
 font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 color: white;
 position: absolute;
-top: 0;
+top: 15px;
 left: 50%;
 transform: translateX(-50%);
 z-index: 1;
 font-weight: bold;
-letter-spacing: 4px;
+letter-spacing: 10px;
 
 }
 @media only screen and (max-width: 600px) {
