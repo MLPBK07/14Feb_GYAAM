@@ -40,16 +40,19 @@ body {
 
 }
 .titulo {
-  margin-bottom: 180px;
+  position: absolute;
+  top: 20px; /* Ajusta según sea necesario */
+  left: 50%;
+  transform: translateX(-50%);
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
-  position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
+  text-align: center;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
-  text-align: center;
 }
+
 @keyframes fadeIn {
   from {
     opacity: 0;
