@@ -38,7 +38,7 @@ letter-spacing: 5px;
 @media only screen and (max-width: 600px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
-      font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+      font-size: 25px; /* Reduce el tamaño del texto para dispositivos más pequeños */
       margin-bottom: 530px;
       letter-spacing: 3px;
   }
